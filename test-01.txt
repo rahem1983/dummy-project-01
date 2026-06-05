@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 test file 01
 change from @dev/login
-=======
 test 01 init
 from @dev/signin
->>>>>>> main
 hello world 01
